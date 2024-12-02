@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a current student of CNA's Enterprise Web Development program in my second semester of study.
+I'm a current student of CNA's Enterprise Web Development program in my second year of study.
 
 <!--
 **Kneeba921/Kneeba921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
